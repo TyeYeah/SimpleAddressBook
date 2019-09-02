@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1567406216 source:c:\users\david\desktop\simpleaddressbook-windows\main.cpp
+	<iostream>
+	"MailList.h"
+	"Interface.h"
+
+1567406216 c:\users\david\desktop\simpleaddressbook-windows\maillist.h
+	"HashTable.h"
+
+1567406216 c:\users\david\desktop\simpleaddressbook-windows\hashtable.h
+	<iostream>
+	<queue>
+	<string>
+
+1567406216 c:\users\david\desktop\simpleaddressbook-windows\interface.h
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
